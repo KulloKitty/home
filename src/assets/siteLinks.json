@@ -1,37 +1,37 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.123.top/"
+    "icon": "概念",
+    "name": "Windows",
+    "link": "https://kullokitty.com/win13"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.123.top/"
+    "name": "缺省",
+    "link": "https://kullokitty.com"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.123.top/"
+    "name": "缺省",
+    "link": "https://kullokitty.com/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.123.top/"
+    "name": "缺省",
+    "link": "https://kullokitty.com/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.123.top/"
+    "name": "缺省",
+    "link": "https://kullokitty.com/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.123.top/"
+    "name": "缺省",
+    "link": "https://kullokitty.com/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.123.top/"
+    "link": "https://kullokitty.com/"
   }
 ]
