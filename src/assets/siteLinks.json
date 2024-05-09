@@ -1,37 +1,47 @@
 [
   {
-    "icon": "概念",
-    "name": "Windows",
-    "link": "https://kullokitty.com/win13"
+    "icon": "Blog",
+    "name": "博客",
+    "link": "/"
   },
   {
-    "icon": "Cloud",
-    "name": "缺省",
+    "icon": "Windows",
+    "name": "Win13",
     "link": "https://kullokitty.com"
   },
   {
-    "icon": "CompactDisc",
-    "name": "缺省",
-    "link": "https://kullokitty.com/"
+    "icon": "Gem",
+    "name": "敬请期待",
+    "link": "/"
   },
   {
-    "icon": "Compass",
-    "name": "缺省",
-    "link": "https://kullokitty.com/"
+    "icon": "Cat",
+    "name": "敬请期待",
+    "link": "/"
   },
   {
-    "icon": "Book",
-    "name": "缺省",
-    "link": "https://kullokitty.com/"
+    "icon": "Dragon",
+    "name": "敬请期待",
+    "link": "/"
+  },
+  {
+    "icon": "Poo",
+    "name": "敬请期待",
+    "link": "/"
+  },
+  {
+    "icon": "YinYang",
+    "name": "敬请期待",
+    "link": "/"
   },
   {
     "icon": "Fire",
-    "name": "缺省",
-    "link": "https://kullokitty.com/"
+    "name": "敬请期待",
+    "link": "/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://kullokitty.com/"
+    "icon": "BattleNet",
+    "name": "敬请期待",
+    "link": "/"
   }
 ]
