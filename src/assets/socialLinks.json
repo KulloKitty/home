@@ -8,7 +8,7 @@
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
-    "tip": "干杯 ~ヾ(°ｰ°ヾ)^?啊咧？",
+    "tip": "干杯ヾ(°ｰ°ヾ)^?啊咧？",
     "url": "https://space.bilibili.com/15910902"
   },
   {
@@ -20,7 +20,7 @@
   {
     "name": "QQ音乐",
     "icon": "/images/icon/qqmusic.png",
-    "tip": "祖传音乐DNA😏想给你",
+    "tip": "祖传音乐DNA😏送给你",
     "url": "https://c6.y.qq.com/base/fcgi-bin/u?__=vzcyKM3jbqwH"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
     "name": "TapTap",
-    "icon": "/images/icon/TapTap.png",
-    "tip": "来啊~快活啊 ୧꒰•̀ᴗ•́꒱୨",
+    "icon": "/images/icon/taptap.png",
+    "tip": "୧꒰•̀ᴗ•́꒱୨",
     "url": "https://www.taptap.cn/user/22533682"
   }
 ]
