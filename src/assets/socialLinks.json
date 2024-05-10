@@ -2,7 +2,7 @@
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗？๑乛◡乛๑",
+    "tip": "诶？诶？诶 ๑乛◡乛๑",
     "url": "https://qm.qq.com/cgi-bin/qm/qr?k=cTMeoDyU8vFdt17op07lzU11IlCme-zn"
   },
   {
@@ -14,25 +14,25 @@
   {
     "name": "网易云",
     "icon": "/images/icon/netease.png",
-    "tip": "夜深了，网抑云启动！",
+    "tip": "夜深了 网抑云启动！",
     "url": "https://y.music.163.com/m/user?id=17851502"
   },
   {
     "name": "QQ音乐",
     "icon": "/images/icon/qqmusic.png",
-    "tip": "祖传音乐DNA😏送给你",
+    "tip": "音乐DNA？我给你呀！",
     "url": "https://c6.y.qq.com/base/fcgi-bin/u?__=vzcyKM3jbqwH"
   },
   {
     "name": "小红书",
     "icon": "/images/icon/redbook.png",
-    "tip": "小红薯 热乎的 (◔◡◔)~",
+    "tip": "红薯 热乎的(◔◡◔)~",
     "url": "https://www.xiaohongshu.com/user/profile/65631bc4000000001000a4a0"
   },
   {
     "name": "TapTap",
     "icon": "/images/icon/taptap.png",
-    "tip": "୧꒰•̀ᴗ•́꒱୨",
+    "tip": "呦~呦~ ୧꒰•̀ᴗ•́꒱୨",
     "url": "https://www.taptap.cn/user/22533682"
   }
 ]
